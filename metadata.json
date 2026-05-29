@@ -1,0 +1,6 @@
+{
+  "name": "第一性原理戒烟",
+  "description": "基于第一性原理拆解大脑尼古丁奖励机制，通过突触重建、认知矫正与SOS微习惯呼吸，科学且无痛地实现彻底戒断。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
